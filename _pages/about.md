@@ -17,7 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Yongheng Zhang
+I am Yongheng Zhang, a first-year master's student at the School of Computer Science and Engineering, [Central South University (CSU)](https://www.csu.edu.cn/). 
+I am supervised by [Prof. Libo Qin](https://faculty.csu.edu.cn/qinlibo/zh_CN/index.htm).
+
+Currently, under the guidance of [Prof. Libo Qin](https://faculty.csu.edu.cn/qinlibo/zh_CN/index.htm) and [Qiguang Chen](https://lightchen233.github.io/), my research focuses on Large Language Models, Reasoning, and Chain-of-Thought. 
+Additionally, I am interested in video understanding and generation using Multi-modal Large Language Models.
+
+If you are interested in my research, feel free to contact me at [zyhbrz@gmail.com](zyhbrz@gmail.com). 
+If you like this homepage template, welcome to star and fork the open-sourced template [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io).
+
 
 
 # 🔥 News
