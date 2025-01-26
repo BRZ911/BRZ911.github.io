@@ -62,11 +62,11 @@ If you like this homepage template, welcome to star and fork the open-sourced te
 <!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-- *2024* The 13th CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC 2024), Shared Task 3, 3rd Place.
+- *2024* The 13th CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC 2024), Shared Task 3, **3rd Place**.
 
-- *2022* Chinese Collegiate Computing Competition, National First Prize.
+- *2022* Chinese Collegiate Computing Competition, **National First Prize**.
 
 # 💬 Community Service
-- Reviewer: NLPCC 2024, ICASSP 2025, ICME 2025, IJCNN 2025.
+- **Reviewer**: NLPCC 2024, ICASSP 2025, ICME 2025, IJCNN 2025.
 
-- [MLNLP Community](https://mlnlpworld.com) Secretary.
+- [**MLNLP Community**](https://mlnlpworld.com) Secretary.
