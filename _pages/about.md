@@ -50,21 +50,23 @@ If you like this homepage template, welcome to star and fork the open-sourced te
 
 - [Wrong-of-Thought: An Integrated Reasoning Framework with Multi-Perspective Verification and Wrong Information](https://ieeexplore.ieee.org/abstract/document/10446865), **Yongheng Zhang**, Qiguang Chen, Jingxuan Zhou, Peng Wang, Jiasheng Si, Jin Wang, Wenpeng Lu, Libo Qin **EMNLP 2024 Findings**
 
-- [AutoCAP: Towards Automatic Cross-lingual Alignment Planning for Zero-shot Chain-of-Thought](https://arxiv.org/pdf/2406.13940), **Yongheng Zhang**, Qiguang Chen, Min Li, Wanxiang Che, Libo Qin **ACL 2024 Findings**
+- ``ACL 2024 Findings`` [AutoCAP: Towards Automatic Cross-lingual Alignment Planning for Zero-shot Chain-of-Thought](https://arxiv.org/pdf/2406.13940), **Yongheng Zhang**, Qiguang Chen, Min Li, Wanxiang Che, Libo Qin.
 
-- [Large Language Models Meet NLP: A Survey](https://ieeexplore.ieee.org/abstract/document/10446865), Libo Qin, Qiguang Chen, Xiachong Feng, Yang Wu, **Yongheng Zhang**, Yinghui Li, Min Li, Wanxiang Che, Philip S Yu **Arxiv 2024**
+- ``Arxiv 2024`` [Large Language Models Meet NLP: A Survey](https://ieeexplore.ieee.org/abstract/document/10446865), Libo Qin, Qiguang Chen, Xiachong Feng, Yang Wu, **Yongheng Zhang**, Yinghui Li, Min Li, Wanxiang Che, Philip S Yu.
 
-- [S3 Agent: Unlocking the Power of VLLM for Zero-Shot Multi-modal Sarcasm Detection](https://ieeexplore.ieee.org/abstract/document/10446865), Peng Wang, **Yongheng Zhang**, Hao Fei, Qiguang Chen, Yukai Wang, Jiasheng Si, Wenpeng Lu, Min Li, Libo Qin **ToMM 2024**
+- ``ToMM 2024`` [S3 Agent: Unlocking the Power of VLLM for Zero-Shot Multi-modal Sarcasm Detection](https://ieeexplore.ieee.org/abstract/document/10446865), Peng Wang, **Yongheng Zhang**, Hao Fei, Qiguang Chen, Yukai Wang, Jiasheng Si, Wenpeng Lu, Min Li, Libo Qin.
 
-- [LabCLIP: Label-Enhanced Clip for Improving Zero-Shot Text Classification](https://ieeexplore.ieee.org/abstract/document/10446865), **Yongheng Zhang**, Peng Wang, Qiguang Chen, Jingxuan Zhou, Yongmei Wang, Min Li **ICASSP 2024**
+- ``ICASSP 2024`` [LabCLIP: Label-Enhanced Clip for Improving Zero-Shot Text Classification](https://ieeexplore.ieee.org/abstract/document/10446865), **Yongheng Zhang**, Peng Wang, Qiguang Chen, Jingxuan Zhou, Yongmei Wang, Min Li.
 
 # 🎖 Honors and Awards
 <!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-- *2024* The 13th CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC 2024), Shared Task 3, 3rd Place. -->
-- *2022* Chinese Collegiate Computing Competition, National First Prize.  -->
+- *2024* The 13th CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC 2024), Shared Task 3, 3rd Place.
+
+- *2022* Chinese Collegiate Computing Competition, National First Prize.
 
 # 💬 Community Service
-Reviewer: NLPCC 2024, ICASSP 2025, ICME 2025, IJCNN 2025.
-[MLNLP Community](https://mlnlpworld.com) Secretary.
+- Reviewer: NLPCC 2024, ICASSP 2025, ICME 2025, IJCNN 2025.
+
+- [MLNLP Community](https://mlnlpworld.com) Secretary.
