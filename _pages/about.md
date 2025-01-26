@@ -48,7 +48,7 @@ If you like this homepage template, welcome to star and fork the open-sourced te
 </div>
 </div> -->
 
-- [Wrong-of-Thought: An Integrated Reasoning Framework with Multi-Perspective Verification and Wrong Information](https://ieeexplore.ieee.org/abstract/document/10446865), **Yongheng Zhang**, Qiguang Chen, Jingxuan Zhou, Peng Wang, Jiasheng Si, Jin Wang, Wenpeng Lu, Libo Qin **EMNLP 2024 Findings**
+- ``EMNLP 2024 Findings`` [Wrong-of-Thought: An Integrated Reasoning Framework with Multi-Perspective Verification and Wrong Information](https://ieeexplore.ieee.org/abstract/document/10446865), **Yongheng Zhang**, Qiguang Chen, Jingxuan Zhou, Peng Wang, Jiasheng Si, Jin Wang, Wenpeng Lu, Libo Qin.
 
 - ``ACL 2024 Findings`` [AutoCAP: Towards Automatic Cross-lingual Alignment Planning for Zero-shot Chain-of-Thought](https://arxiv.org/pdf/2406.13940), **Yongheng Zhang**, Qiguang Chen, Min Li, Wanxiang Che, Libo Qin.
 
@@ -71,4 +71,4 @@ If you like this homepage template, welcome to star and fork the open-sourced te
 # 💬 Community Service
 - **Reviewer**: NLPCC 2024, ICASSP 2025, ICME 2025, IJCNN 2025.
 
-- [**MLNLP Community**](https://mlnlpworld.com) Secretary.
+- [**MLNLP**](https://mlnlpworld.com) Community Secretary.
