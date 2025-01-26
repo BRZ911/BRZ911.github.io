@@ -64,6 +64,8 @@ If you like this homepage template, welcome to star and fork the open-sourced te
 
 - *2024* The 13th CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC 2024), Shared Task 3, **3rd Place**.
 
+- *2023* China National University Student Innovation & Entrepreneurship Development Program.
+
 - *2022* Chinese Collegiate Computing Competition, **National First Prize**.
 
 # 💬 Community Service
