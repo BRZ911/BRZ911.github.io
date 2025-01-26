@@ -48,13 +48,13 @@ If you like this homepage template, welcome to star and fork the open-sourced te
 </div>
 </div> -->
 
-- ``EMNLP 2024 Findings`` [Wrong-of-Thought: An Integrated Reasoning Framework with Multi-Perspective Verification and Wrong Information](https://ieeexplore.ieee.org/abstract/document/10446865), **Yongheng Zhang**, Qiguang Chen, Jingxuan Zhou, Peng Wang, Jiasheng Si, Jin Wang, Wenpeng Lu, Libo Qin.
+- ``EMNLP 2024 Findings`` [Wrong-of-Thought: An Integrated Reasoning Framework with Multi-Perspective Verification and Wrong Information](https://arxiv.org/pdf/2410.04463), **Yongheng Zhang**, Qiguang Chen, Jingxuan Zhou, Peng Wang, Jiasheng Si, Jin Wang, Wenpeng Lu, Libo Qin.
 
 - ``ACL 2024 Findings`` [AutoCAP: Towards Automatic Cross-lingual Alignment Planning for Zero-shot Chain-of-Thought](https://arxiv.org/pdf/2406.13940), **Yongheng Zhang**, Qiguang Chen, Min Li, Wanxiang Che, Libo Qin.
 
-- ``Arxiv 2024`` [Large Language Models Meet NLP: A Survey](https://ieeexplore.ieee.org/abstract/document/10446865), Libo Qin, Qiguang Chen, Xiachong Feng, Yang Wu, **Yongheng Zhang**, Yinghui Li, Min Li, Wanxiang Che, Philip S Yu.
+- ``Arxiv 2024`` [Large Language Models Meet NLP: A Survey](https://arxiv.org/pdf/2405.12819), Libo Qin, Qiguang Chen, Xiachong Feng, Yang Wu, **Yongheng Zhang**, Yinghui Li, Min Li, Wanxiang Che, Philip S Yu.
 
-- ``ToMM 2024`` [S3 Agent: Unlocking the Power of VLLM for Zero-Shot Multi-modal Sarcasm Detection](https://ieeexplore.ieee.org/abstract/document/10446865), Peng Wang, **Yongheng Zhang**, Hao Fei, Qiguang Chen, Yukai Wang, Jiasheng Si, Wenpeng Lu, Min Li, Libo Qin.
+- ``ToMM 2024`` [S3 Agent: Unlocking the Power of VLLM for Zero-Shot Multi-modal Sarcasm Detection](https://dl.acm.org/doi/abs/10.1145/3690642), Peng Wang, **Yongheng Zhang**, Hao Fei, Qiguang Chen, Yukai Wang, Jiasheng Si, Wenpeng Lu, Min Li, Libo Qin.
 
 - ``ICASSP 2024`` [LabCLIP: Label-Enhanced Clip for Improving Zero-Shot Text Classification](https://ieeexplore.ieee.org/abstract/document/10446865), **Yongheng Zhang**, Peng Wang, Qiguang Chen, Jingxuan Zhou, Yongmei Wang, Min Li.
 
