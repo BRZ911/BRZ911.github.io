@@ -70,6 +70,10 @@ If you like this homepage template, welcome to star and fork the open-sourced te
 
 - *2022* Chinese Collegiate Computing Competition, **National First Prize**.
 
+# 💬 Open Source Projects
+
+- [LLMs-from-scratch-CN](https://github.com/MLNLP-World/LLMs-from-scratch-CN), ![](https://img.shields.io/github/stars/MLNLP-World//LLMs-from-scratch-CN).
+
 # 💬 Community Service
 - **Reviewer**: NLPCC 2024, ICASSP 2025, ICME 2025, IJCNN 2025.
 
