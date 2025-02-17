@@ -64,7 +64,7 @@ If you like this homepage template, welcome to star and fork the open-sourced te
 <!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-- *2024* The 13th CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC 2024), Shared Task 3, **3rd Place**.
+- *2024* The 13th CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC 2024), Coreference Resolution and Relation Extraction Task, **Second Runner-Up**.
 
 - *2023* China National University Student Innovation & Entrepreneurship Development Program.
 
