@@ -75,6 +75,6 @@ If you like this homepage template, welcome to star and fork the open-sourced te
 - [*MLNLP Github*](https://github.com/MLNLP-World) [LLMs-from-scratch-CN](https://github.com/MLNLP-World/LLMs-from-scratch-CN), ![](https://img.shields.io/github/stars/MLNLP-World/LLMs-from-scratch-CN).
 
 # 🌍 Community Service
-- **Reviewer**: NLPCC 2024, ICASSP 2025, ICME 2025, IJCNN 2025.
+- **Reviewer**: ACL 2025 ARR, ICASSP 2025, ICME 2025, IJCNN 2025, NLPCC 2024.
 
 - [**MLNLP**](https://mlnlpworld.com) Community Secretary.
