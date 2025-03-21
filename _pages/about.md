@@ -51,7 +51,7 @@ If you like this homepage template, welcome to star and fork the open-sourced te
 </div>
 </div> -->
 
-- ``ICME`` [Wrong-of-Thought: An Integrated Reasoning Framework with Multi-Perspective Verification and Wrong Information](https://arxiv.org/pdf/2410.04463), Chunlin Lu\*, **Yongheng Zhang**\*, Peng Wang\*, Wenpeng Lu, Libo Qin.
+- ``ICME 2025`` [Wrong-of-Thought: An Integrated Reasoning Framework with Multi-Perspective Verification and Wrong Information](https://arxiv.org/pdf/2410.04463), Chunlin Lu\*, **Yongheng Zhang**\*, Peng Wang\*, Wenpeng Lu, Libo Qin.
 
 - ``EMNLP 2024 Findings`` [Wrong-of-Thought: An Integrated Reasoning Framework with Multi-Perspective Verification and Wrong Information](https://arxiv.org/pdf/2410.04463), **Yongheng Zhang**, Qiguang Chen, Jingxuan Zhou, Peng Wang, Jiasheng Si, Jin Wang, Wenpeng Lu, Libo Qin.
 
