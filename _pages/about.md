@@ -31,6 +31,7 @@ If you like this homepage template, welcome to star and fork the open-sourced te
 
 
 # 🔥 News
+- *2025.03*: &nbsp;🎉🎉 Our MDCoT is accepted by ICME 2025.
 - *2024.10*: &nbsp;🎉🎉 Our WoT is accepted by EMNLP 2024 (Findings).
 - *2024.08*: &nbsp;🎉🎉 Our S3Agent is accepted by ToMM.
 - *2024.05*: &nbsp;🎉🎉 Our Auto-CAP is accepted by ACL 2024 (Findings).
@@ -50,9 +51,11 @@ If you like this homepage template, welcome to star and fork the open-sourced te
 </div>
 </div> -->
 
+- ``ICME`` [Wrong-of-Thought: An Integrated Reasoning Framework with Multi-Perspective Verification and Wrong Information](https://arxiv.org/pdf/2410.04463), Chunlin Lu\*, **Yongheng Zhang**\*, Peng Wang\*, Wenpeng Lu, Libo Qin.
+
 - ``EMNLP 2024 Findings`` [Wrong-of-Thought: An Integrated Reasoning Framework with Multi-Perspective Verification and Wrong Information](https://arxiv.org/pdf/2410.04463), **Yongheng Zhang**, Qiguang Chen, Jingxuan Zhou, Peng Wang, Jiasheng Si, Jin Wang, Wenpeng Lu, Libo Qin.
 
-- ``ACL 2024 Findings`` [AutoCAP: Towards Automatic Cross-lingual Alignment Planning for Zero-shot Chain-of-Thought](https://arxiv.org/pdf/2406.13940), **Yongheng Zhang**, Qiguang Chen, Min Li, Wanxiang Che, Libo Qin.
+- ``ACL 2024 Findings`` [AutoCAP: Towards Automatic Cross-lingual Alignment Planning for Zero-shot Chain-of-Thought](https://arxiv.org/pdf/2406.13940), **Yongheng Zhang**\*, Qiguang Chen\*, Min Li, Wanxiang Che, Libo Qin.
 
 - ``Arxiv 2024`` [Large Language Models Meet NLP: A Survey](https://arxiv.org/pdf/2405.12819), Libo Qin, Qiguang Chen, Xiachong Feng, Yang Wu, **Yongheng Zhang**, Yinghui Li, Min Li, Wanxiang Che, Philip S Yu.
 
