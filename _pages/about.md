@@ -31,10 +31,11 @@ If you like this homepage template, welcome to star and fork the open-sourced te
 
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉 Our CCHall is accepted by ACL 2025 Main.
 - *2025.03*: &nbsp;🎉🎉 Our MDCoT is accepted by ICME 2025.
-- *2024.10*: &nbsp;🎉🎉 Our WoT is accepted by EMNLP 2024 (Findings).
+- *2024.10*: &nbsp;🎉🎉 Our WoT is accepted by EMNLP 2024 Findings.
 - *2024.08*: &nbsp;🎉🎉 Our S3Agent is accepted by ToMM.
-- *2024.05*: &nbsp;🎉🎉 Our Auto-CAP is accepted by ACL 2024 (Findings).
+- *2024.05*: &nbsp;🎉🎉 Our Auto-CAP is accepted by ACL 2024 Findings.
 - *2023.12*: &nbsp;🎉🎉 Our LabCLIP is accepted by ICASSP 2024.
 
 # 📝 Publications 
@@ -50,6 +51,8 @@ If you like this homepage template, welcome to star and fork the open-sourced te
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
+
+- ``ACL 2025 Main`` [CCHall: A Novel Benchmark for Joint Cross-Lingual and Cross-Modal Hallucinations Detection in Large Language Models](https://brz911.github.io/), **Yongheng Zhang**\*, Xu Liu\*, Ruoxi Zhou, Qiguang Chen, Hao Fei, Wenpeng Lu, Libo Qin.
 
 - ``ICME 2025`` [MDCoT: Medical Diagnosis Chain-of-Thought with Self-Diagnostic Refinement for Alzheimer’s Disease](https://brz911.github.io/), Chunlin Lu\*, **Yongheng Zhang**\*, Peng Wang\*, Wenpeng Lu, Libo Qin.
 
