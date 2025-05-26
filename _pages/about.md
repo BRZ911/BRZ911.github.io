@@ -88,6 +88,6 @@ If you like this homepage template, welcome to star and fork the open-sourced te
 
 ---
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=dfeaf7&w=800&t=n&d=Qn2WsPKiKuiUQWVXKuJ5AMLPZnp77cDWsBNHhzNSAUo&co=f5f5f5&cmo=143068&cmn=668749'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=dfeaf7&w=800&t=n&d=Qn2WsPKiKuiUQWVXKuJ5AMLPZnp77cDWsBNHhzNSAUo&co=ffffff&cmo=143068&cmn=668749'></script>
 
 ---
