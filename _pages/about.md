@@ -87,43 +87,7 @@ If you like this homepage template, welcome to star and fork the open-sourced te
 
 
 ---
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>自适应 ClustrMaps</title>
-  <style>
-    .map-wrapper {
-      width: 100%;
-      max-width: 100%;
-      overflow: hidden;
-    }
 
-    .map-inner {
-      transform: scale(1);
-      transform-origin: top left;
-    }
-
-    @media (max-width: 800px) {
-      .map-inner {
-        transform: scale(calc(100vw / 800));
-      }
-    }
-  </style>
-</head>
-<body>
-
-  <div class="map-wrapper">
-    <div class="map-inner">
-      <script type='text/javascript' id='clustrmaps' 
-              src='//cdn.clustrmaps.com/map_v2.js?cl=dfeaf7&w=800&t=n&d=Qn2WsPKiKuiUQWVXKuJ5AMLPZnp77cDWsBNHhzNSAUo&co=f5f5f5&cmo=143068&cmn=668749'>
-      </script>
-    </div>
-  </div>
-
-</body>
-</html>
-
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=dfeaf7&w=800&t=n&d=Qn2WsPKiKuiUQWVXKuJ5AMLPZnp77cDWsBNHhzNSAUo&co=f5f5f5&cmo=143068&cmn=668749'></script>
 
 ---
