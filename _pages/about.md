@@ -52,7 +52,7 @@ If you like this homepage template, welcome to star and fork the open-sourced te
 </div>
 </div> -->
 
-- ``ACL 2025 Main`` [CCHall: A Novel Benchmark for Joint Cross-Lingual and Cross-Modal Hallucinations Detection in Large Language Models](https://brz911.github.io/), **Yongheng Zhang**\*, Xu Liu\*, Ruoxi Zhou, Qiguang Chen, Hao Fei, Wenpeng Lu, Libo Qin.
+- ``ACL 2025 Main`` [CCHall: A Novel Benchmark for Joint Cross-Lingual and Cross-Modal Hallucinations Detection in Large Language Models](https://arxiv.org/abs/2505.19108), **Yongheng Zhang**\*, Xu Liu\*, Ruoxi Zhou, Qiguang Chen, Hao Fei, Wenpeng Lu, Libo Qin.
 
 - ``ICME 2025`` [MDCoT: Medical Diagnosis Chain-of-Thought with Self-Diagnostic Refinement for Alzheimer’s Disease](https://brz911.github.io/), Chunlin Lu\*, **Yongheng Zhang**\*, Peng Wang\*, Wenpeng Lu, Libo Qin.
 
