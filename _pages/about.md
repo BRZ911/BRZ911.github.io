@@ -80,6 +80,8 @@ If you like this homepage template, welcome to star and fork the open-sourced te
 
 - [*MLNLP Github*](https://github.com/MLNLP-World) [LLMs-from-scratch-CN](https://github.com/MLNLP-World/LLMs-from-scratch-CN), ![](https://img.shields.io/github/stars/MLNLP-World/LLMs-from-scratch-CN).
 
+- [*MLNLP Github*](https://github.com/MLNLP-World) [Academic-Resume-Template](https://github.com/MLNLP-World/Academic-Resume-Template), ![](https://img.shields.io/github/stars/MLNLP-World/Academic-Resume-Template).
+
 # 🌍 Community Service
 - **Reviewer**: NeurIPS 2025, ACL 2025 ARR, EMNLP 2025 ARR, ICASSP 2025, ICME 2025, IJCNN 2025, NLPCC 2024.
 
