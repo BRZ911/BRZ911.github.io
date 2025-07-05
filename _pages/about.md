@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Yongheng Zhang, a first-year master's student at the School of Computer Science and Engineering, [Central South University (CSU)](https://www.csu.edu.cn/). 
+I am Yongheng Zhang, a second-year master's student at the School of Computer Science and Engineering, [Central South University (CSU)](https://www.csu.edu.cn/). 
 I am supervised by [Prof. Libo Qin](https://faculty.csu.edu.cn/qinlibo/zh_CN/index.htm).
 
 Currently, under the guidance of [Prof. Libo Qin](https://faculty.csu.edu.cn/qinlibo/zh_CN/index.htm) and [Dr. Qiguang Chen](https://lightchen233.github.io/), my research focuses on Large Language Models, Reasoning, and Chain-of-Thought. 
@@ -31,6 +31,7 @@ If you like this homepage template, welcome to star and fork the open-sourced te
 
 
 # 🔥 News
+- *2025.07*: &nbsp;🎉🎉 Our ViTCoT is accepted by ACM MM 2025.
 - *2025.05*: &nbsp;🎉🎉 Our CCHall is accepted by ACL 2025 Main.
 - *2025.03*: &nbsp;🎉🎉 Our MDCoT is accepted by ICME 2025.
 - *2024.10*: &nbsp;🎉🎉 Our WoT is accepted by EMNLP 2024 Findings.
@@ -51,6 +52,8 @@ If you like this homepage template, welcome to star and fork the open-sourced te
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
+
+- ``ACM MM 2025`` [ViTCoT: Video-Text Interleaved Chain-of-Thought for Boosting Video Understanding in Large Language Models](), **Yongheng Zhang**\*, Xu Liu\*, Ruihan Tao, Qiguang Chen, Hao Fei, Wanxiang Che, Libo Qin.
 
 - ``ACL 2025 Main`` [CCHall: A Novel Benchmark for Joint Cross-Lingual and Cross-Modal Hallucinations Detection in Large Language Models](https://arxiv.org/abs/2505.19108), **Yongheng Zhang**\*, Xu Liu\*, Ruoxi Zhou, Qiguang Chen, Hao Fei, Wenpeng Lu, Libo Qin.
 
