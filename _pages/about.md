@@ -31,8 +31,8 @@ If you like this homepage template, welcome to star and fork the open-sourced te
 
 
 # 🔥 News
-- *2025.07*: &nbsp;🎉🎉 Our ViTCoT is accepted by ACM MM 2025.
-- *2025.05*: &nbsp;🎉🎉 Our CCHall is accepted by ACL 2025 Main.
+- *2025.07*: &nbsp;🎉🔥 Our ViTCoT is accepted by ACM MM 2025.
+- *2025.05*: &nbsp;🎉🔥 Our CCHall is accepted by ACL 2025 Main.
 - *2025.03*: &nbsp;🎉🎉 Our MDCoT is accepted by ICME 2025.
 - *2024.10*: &nbsp;🎉🎉 Our WoT is accepted by EMNLP 2024 Findings.
 - *2024.08*: &nbsp;🎉🎉 Our S3Agent is accepted by ToMM.
