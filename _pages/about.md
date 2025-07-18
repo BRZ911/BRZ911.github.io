@@ -90,6 +90,8 @@ If you like this homepage template, welcome to star and fork the open-sourced te
 
 - [**MLNLP**](https://mlnlpworld.com) Community Secretary.
 
+- NLPCC 2024, 2025 Volunteer.
+
 
 ---
 
